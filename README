@@ -3,3 +3,5 @@ UnpublishedFilter is a simple filter that lives in the Quickfilter menu on the M
 To install:
 1. Copy to your MT plugins directory, e.g. "<your MT location>/plugins/"
 2. Enjoy
+
+Tested against MT4.31
