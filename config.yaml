@@ -1,0 +1,12 @@
+name: My Unpublished Entries Filter Plugin
+id: UnpublishedFilter
+author_link: http://benboyd.us/
+author_name: Ben Boyd
+description: This plugin provides writers in a multi-writer environment with a way to view only their own unpublished entries via the Quickfilter menu. Currently options exist to filter on 'My Entries' and 'Unpublished Entries', neither of which are specific enough.
+version: 0.1
+list_filters:	
+	entry:
+		my_unpublished_entries:
+			label: "My Unpublished Entries"
+			order: 500
+			handler: $UnpublishedFilter::UnpublishedFilter::Plugin::my_unpublished_entries

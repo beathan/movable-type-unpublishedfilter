@@ -1,0 +1,5 @@
+UnpublishedFilter is a simple filter that lives in the Quickfilter menu on the Manage Entries screen. It simply shows unpublished entries for the current user, rather than the less limited "Unpublished Entries" that shows unpublished entries for all users.
+
+To install:
+1. Copy to your MT plugins directory, e.g. "<your MT location>/plugins/"
+2. Enjoy
